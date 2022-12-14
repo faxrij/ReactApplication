@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+Site runs on https://react3.onrender.com/ -> still on production.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
